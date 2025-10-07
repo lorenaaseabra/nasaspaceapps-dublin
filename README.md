@@ -56,7 +56,7 @@ The `netlify.toml` file is already configured with:
 
 ```bash
 # 1. Clone the game
-git clone https://github.com/aditya-pa/nasaspaceapps.git
+git clone https://github.com/lorenaaseabra/nasaspaceapps.git
 cd nasaspaceapps
 
 # 2. Install dependencies
@@ -362,3 +362,8 @@ MIT License - feel free to use this project for learning and education!
 **Made with 🚀 for the NASA Space Apps Challenge**
 
 *Defending Earth, one question at a time!*
+
+
+Originally created by Aditya Pandey
+
+Updated by Lorena Seabra for NASA Space Apps Dublin 2025
